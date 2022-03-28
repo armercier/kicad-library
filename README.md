@@ -6,7 +6,7 @@ KiCad symbol and footprint to share between projects
 1. In each project make sure you have a hardware folder, add this repository as a git submodule:
 
     ```sh
-    git add submodule git@github.com:armercier/kicad-library.git hardware/library
+    git submodule add git@github.com:armercier/kicad-library.git hardware/library
     ```
 2. Update the git submodule
 
