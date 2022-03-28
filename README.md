@@ -1,5 +1,5 @@
 # kicad-library
-KiCad symbol and footprint to share between projects
+KiCad symbol and footprint to share between projects.
 
 ## Install
 
