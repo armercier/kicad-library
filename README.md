@@ -11,5 +11,5 @@ KiCad symbol and footprint to share between projects.
 2. Update the git submodule
 
     ```sh
-    git submodule update --remote hardware/library
+    git submodule foreach --recursive git pull
     ```
